@@ -15,28 +15,24 @@ authors within the collaboration network.
 
 ### Degree Centrality
 
-![Top Authors by Degree](figures/top-authors-degree.png)
-
 Degree centrality identifies authors with a large number of direct
 co-authorship connections.
 
 ### Betweenness Centrality
 
-![Betweenness Centrality](figures/betweenness-centrality.png)
+![Betweenness Centrality](betweenness_centrality.png)
 
 Betweenness centrality highlights authors that occupy intermediary or
 bridge positions between other researchers.
 
 ### Eigenvector Centrality
 
-![Eigenvector Centrality](figures/eigenvector-centrality.png)
-
 Eigenvector centrality considers the importance of an author's connections
 to other influential authors.
 
 ### PageRank Centrality
 
-![PageRank Centrality](figures/pagerank-centrality.png)
+![PageRank Centrality](pagerank-network.png)
 
 PageRank is used to examine author influence while accounting for the
 structure and importance of connections.
@@ -48,21 +44,21 @@ network.
 
 ### Bipartite Author–Publication Network
 
-![Bipartite Network](figures/bipartite-network.png)
+![Bipartite Network](bipartite-network.png)
 
 The bipartite network represents relationships between authors and
 publications.
 
 ### K-Core Network
 
-![K-Core Network](figures/kcore-network.png)
+![K-Core Network](kcore-network.png)
 
 A k-core analysis was used to examine the densely connected core of the
 co-authorship network.
 
 ### Research Communities
 
-![Research Communities](figures/research-communities.png)
+![Research Communities](research-communities.png)
 
 Community detection was used to identify groups of authors with stronger
 internal collaboration patterns.
