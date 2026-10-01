@@ -32,8 +32,14 @@ community and the structural position of individual researchers.
 
 ## Research Question
 
-How is the nutrigenomics research community structured, and which
-researchers occupy important positions within its collaboration network?
+The main question addressed by this project is:
+
+How is the research collaboration network in nutrigenomics structured, and which researchers and communities occupy important positions within the network?
+
+The analysis examines the network from two complementary perspectives:
+
+Macro-level: overall structure and organization of the network
+Micro-level: position and importance of individual researchers
 
 ---
 
