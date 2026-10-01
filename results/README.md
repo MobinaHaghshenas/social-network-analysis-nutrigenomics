@@ -67,7 +67,7 @@ The bipartite network represents two types of nodes:
 
 Edges connect authors to the publications on which they collaborated.
 
-![Bipartite Network](figures/bipartite-network.png)
+![Bipartite Network](bipartite-network.png)
 
 This representation provides the basis for understanding the relationship
 between researchers and scientific publications before projecting the
@@ -87,7 +87,7 @@ The filtering process removes nodes with fewer than five relevant
 connections and produces a more focused representation of the core
 collaborative structure.
 
-![K-Core Network](figures/kcore-network.png)
+![K-Core Network](kcore-network.png)
 
 ---
 
@@ -109,14 +109,14 @@ of the network.
 
 ### Community Network
 
-![Research Communities](figures/research-communities-image1.png)
+![Research Communities](research-communities-image1.png)
 
 The visualization shows the major communities using different colors
 and network structures.
 
 ### Community Size / Major Subnetworks
 
-![Research Community Sizes](figures/research-communities-image2.png)
+![Research Community Sizes](research-communities-image2.png)
 
 The second visualization provides a complementary view of the major
 subnetworks and their relative sizes.
