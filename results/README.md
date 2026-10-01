@@ -58,7 +58,9 @@ co-authorship network.
 
 ### Research Communities
 
-![Research Communities](research-communities.png)
+![Research Communities](research-communities-image1.png)
+![Research Communities](research-communities-image2.png)
+
 
 Community detection was used to identify groups of authors with stronger
 internal collaboration patterns.
