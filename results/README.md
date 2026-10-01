@@ -24,7 +24,7 @@ of highly connected researchers.
 The visualization highlights prominent authors within the network and
 their collaboration relationships.
 
-![Top Authors Network](figures/top-authors-network.png)
+![Top Authors Network](top-authors-network.png)
 
 The analysis identified Ordovas JM, Zhang X, and Li H among the authors
 with the highest degree centrality.
@@ -39,7 +39,7 @@ shortest paths between other researchers.
 Such nodes can occupy intermediary or bridge positions within the
 collaboration network.
 
-![Betweenness Centrality](figures/betweenness_centrality.png)
+![Betweenness Centrality](betweenness_centrality.png)
 
 The analysis identified Ordovas JM, Chan AT, and Yan Y among the authors
 with the highest betweenness centrality.
@@ -51,7 +51,7 @@ with the highest betweenness centrality.
 PageRank evaluates the structural importance of researchers by taking
 the importance of their connected researchers into account.
 
-![PageRank Centrality](figures/pagerank-network.png)
+![PageRank Centrality](pagerank-network.png)
 
 The highest PageRank values in the study were reported for Wang Y,
 Ordovas JM, Zhang X, Chen Y, and Li Z.
