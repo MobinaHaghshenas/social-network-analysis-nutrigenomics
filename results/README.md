@@ -1,4 +1,4 @@
-# Results
+
 # Results
 
 This folder contains the main visual outputs of the nutrigenomics
